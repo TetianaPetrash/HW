@@ -1,0 +1,16 @@
+D:\Repo\Gitrepos\Homework 6\HW6\HW6\bin\Debug\net5.0\HW6.exe
+D:\Repo\Gitrepos\Homework 6\HW6\HW6\bin\Debug\net5.0\HW6.deps.json
+D:\Repo\Gitrepos\Homework 6\HW6\HW6\bin\Debug\net5.0\HW6.runtimeconfig.json
+D:\Repo\Gitrepos\Homework 6\HW6\HW6\bin\Debug\net5.0\HW6.runtimeconfig.dev.json
+D:\Repo\Gitrepos\Homework 6\HW6\HW6\bin\Debug\net5.0\HW6.dll
+D:\Repo\Gitrepos\Homework 6\HW6\HW6\bin\Debug\net5.0\ref\HW6.dll
+D:\Repo\Gitrepos\Homework 6\HW6\HW6\bin\Debug\net5.0\HW6.pdb
+D:\Repo\Gitrepos\Homework 6\HW6\HW6\obj\Debug\net5.0\HW6.csproj.AssemblyReference.cache
+D:\Repo\Gitrepos\Homework 6\HW6\HW6\obj\Debug\net5.0\HW6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Gitrepos\Homework 6\HW6\HW6\obj\Debug\net5.0\HW6.AssemblyInfoInputs.cache
+D:\Repo\Gitrepos\Homework 6\HW6\HW6\obj\Debug\net5.0\HW6.AssemblyInfo.cs
+D:\Repo\Gitrepos\Homework 6\HW6\HW6\obj\Debug\net5.0\HW6.csproj.CoreCompileInputs.cache
+D:\Repo\Gitrepos\Homework 6\HW6\HW6\obj\Debug\net5.0\HW6.dll
+D:\Repo\Gitrepos\Homework 6\HW6\HW6\obj\Debug\net5.0\ref\HW6.dll
+D:\Repo\Gitrepos\Homework 6\HW6\HW6\obj\Debug\net5.0\HW6.pdb
+D:\Repo\Gitrepos\Homework 6\HW6\HW6\obj\Debug\net5.0\HW6.genruntimeconfig.cache
